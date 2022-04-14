@@ -73,9 +73,9 @@ phone = "+(1) 778 *** 3137"
 
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
+APIkey = "AIzaSyBgnB2c_eu2cESkZ8l3VbJTXcw4h4WtVrk"
+latitude = "49.246292"
+longitude = "-123.116226"
 pinImage = "images/pin.png"
 
 # Social icons
