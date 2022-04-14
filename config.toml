@@ -58,7 +58,7 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Copyright © 2022 Developed by Yuxian Xu. Built on Hugo, StaticMania theme" 
+copyright = "Copyright © 2022  by Yuxian Xu" 
 copyright2 = "a Hugo site theme By staticmania" 
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/mwkybyej"
@@ -66,7 +66,7 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "Surrey, B.C, Canada."
+address = "Vancouver, B.C, Canada."
 email = "yuxian.xu@gmail.com"
 openingHours = "Open from 7:30am to 4:30pm (close at 5pm Sundays)"
 phone = "+(1) 778 *** 3137"
