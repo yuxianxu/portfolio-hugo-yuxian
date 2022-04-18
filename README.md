@@ -7,3 +7,5 @@ This is my portfolio website, built by hugo site with a theme designed by Static
 ## Note
 
 This is an ongoing project
+
+## Deployed on aws
