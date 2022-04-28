@@ -57,7 +57,8 @@ For more   I Created this app following with the youTube channel JavaScript Mast
       <guid>https://www.yuxianxu.com/portfolio/case-1-e-commerce-website/</guid>
       <description>About Zonama is a full-featured E-commerce app like amazon
 Live Demo 
-Technologies  NextJS: dynamic routing, image optimization, SSG(Static-site generation) and SSR(Server-side rendering) MaterialUI: framework to build responsive website using custom theme, animation, darkmode, and carousel ReactJS: including decomposing components, context API and hooks Next Connect package: to build backend API MongoDB and Mongoose: to save and retrieve data like products, orders and users PayPal developer api: to make online payment Deployment: Deploy web applications on servers like Vercel JWT Auth: authorization Cloudinary: images cloud storage Google login: Will update this feature later  Feature Full function  users: browsing, searching, placing order, and checking delivery administrators: scalable backend dashboard including creating new product page and managing orders  Products  list page edit page create page image uploaded  Users  admin setting page profile page edit page  Orders  list page summary payment status delivery status  Payment  payment methods payment redirect page paypal and credit card supported  Mobile view - responsive design Please check github readme for more GitHub page</description>
+Technologies Feature Mobile view - responsive design Please check github readme for more GitHub page
+- - - Note: This project is followed by Basir&amp;rsquo;s channel on Udemy and modified by Yuxian Xu</description>
     </item>
     
   </channel>

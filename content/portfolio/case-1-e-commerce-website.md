@@ -19,52 +19,12 @@ Zonama is a full-featured E-commerce app like amazon
 
 ### Technologies
 
-- NextJS: dynamic routing, image optimization, SSG(Static-site generation) and SSR(Server-side rendering)
-- MaterialUI: framework to build responsive website using custom theme, animation, darkmode, and carousel
-- ReactJS: including decomposing components, context API and hooks
-- Next Connect package: to build backend API
-- MongoDB and Mongoose: to save and retrieve data like products, orders and users
-- PayPal developer api: to make online payment
-- Deployment: Deploy web applications on servers like Vercel
-- JWT Auth: authorization
-- Cloudinary: images cloud storage 
-- Google login: Will update this feature later
+![tech](https://res.cloudinary.com/zonama/image/upload/v1651175640/portfolio/zonama-8_zujabw.png)
 
 
 ### Feature
 
-#### Full function
-
-- users: browsing, searching, placing order, and checking delivery
-- administrators: scalable backend dashboard including creating new product page and managing orders
-
-#### Products
-
-- list page
-- edit page
-- create page
-- image uploaded
-
-#### Users
-
-- admin setting page
-- profile page
-- edit page
-
-#### Orders
-
-- list page
-- summary
-- payment status
-- delivery status
-
-#### Payment
-
-- payment methods
-- payment redirect page
-- paypal and credit card supported
-
-
+![feature](https://res.cloudinary.com/zonama/image/upload/v1651175640/portfolio/zonama-9_fiu7ft.png)
 
 #### Mobile view - responsive design
 
