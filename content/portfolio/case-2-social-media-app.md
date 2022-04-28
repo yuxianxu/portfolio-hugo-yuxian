@@ -20,13 +20,7 @@ LoveShare is a fancy social media app.
 
 ### Features
 
-- Advanced Social Media app
-- Google Authentication
-- Sanity headless CMS (Content Management System) platform
-- Create, edit, delete and save posts
-- Comments on other people's posts
-- Search and filter images
-- Masonary layout
+![features](https://res.cloudinary.com/zonama/image/upload/v1651175807/portfolio/loveshare-8_okplwi.png)
 
 ### ScreenShots
 
@@ -53,26 +47,17 @@ LoveShare is a fancy social media app.
 
 #### For more info, please check on GitHub
 
-- Sanity CMS platform
-
-- Hover effects - download, save, delete,and redirect url
-
-- Leave comments
-
-- View by category
-
-- Search anything
-
-- Personal Account
-
-- Check created images
-
-- Check saved images
+![more](https://res.cloudinary.com/zonama/image/upload/v1651175935/portfolio/loveshare-9_towfvw.png)
 
 [ReadMe](https://github.com/yuxianxu/social-image-sharing/blob/main/README.md)
+
+### Live View
+
+[![loveShare](https://loveshare.netlify.app/static/media/logo.046cff3d442d03b138b1.png)](https://loveshare.netlify.app)
 
 #### For more
 
 - I Created this app following with the youTube channel [JavaScript Mastery](https://youtu.be/1RHDhtbqo94)
 
 - Deployed on netlify - npm run build, then upload the build file on netlify
+
