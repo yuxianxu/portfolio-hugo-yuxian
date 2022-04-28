@@ -6,27 +6,45 @@
     <description>Recent content on Yuxian Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Apr 2022 18:07:16 +0600</lastBuildDate><atom:link href="https://www.yuxianxu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 12:49:27 +0600</lastBuildDate><atom:link href="https://www.yuxianxu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Case 1: E-commerce Website</title>
+      <link>https://www.yuxianxu.com/portfolio/case-1-e-commerce-website/</link>
+      <pubDate>Tue, 05 Apr 2022 12:49:27 +0600</pubDate>
+      
+      <guid>https://www.yuxianxu.com/portfolio/case-1-e-commerce-website/</guid>
+      <description>About Zonama is a full-featured E-commerce app like amazon
+Live Demo 
+Technologies  NextJS: dynamic routing, image optimization, SSG(Static-site generation) and SSR(Server-side rendering) MaterialUI: framework to build responsive website using custom theme, animation, darkmode, and carousel ReactJS: including decomposing components, context API and hooks Next Connect package: to build backend API MongoDB and Mongoose: to save and retrieve data like products, orders and users PayPal developer api: to make online payment Deployment: Deploy web applications on servers like Vercel JWT Auth: authorization Cloudinary: images cloud storage Google login: Will update this feature later  Feature Full function  users: browsing, searching, placing order, and checking delivery administrators: scalable backend dashboard including creating new product page and managing orders  Products  list page edit page create page image uploaded  Users  admin setting page profile page edit page  Orders  list page summary payment status delivery status  Payment  payment methods payment redirect page paypal and credit card supported  Mobile view - responsive design Please check github readme for more GitHub page</description>
+    </item>
+    
     <item>
       <title>Case 2: Social Media App</title>
-      <link>https://www.yuxianxu.com/portfolio/2-case-study-two/</link>
-      <pubDate>Tue, 12 Apr 2022 18:07:16 +0600</pubDate>
+      <link>https://www.yuxianxu.com/portfolio/case-2-social-media-app/</link>
+      <pubDate>Sat, 12 Mar 2022 18:07:16 +0600</pubDate>
       
-      <guid>https://www.yuxianxu.com/portfolio/2-case-study-two/</guid>
+      <guid>https://www.yuxianxu.com/portfolio/case-2-social-media-app/</guid>
       <description>About LoveShare is a fancy social media app.
 Live View 
 Features  Advanced Social Media app Google Authentication Sanity headless CMS (Content Management System) platform Create, edit, delete and save posts Comments on other people&amp;rsquo;s posts Search and filter images Masonary layout  ScreenShots  Login page  Mobile view - responsive design  Mobile view - sidebar  For more info, please check on GitHub   Sanity CMS platform</description>
     </item>
     
     <item>
-      <title>Case 1: E-commerce Website</title>
-      <link>https://www.yuxianxu.com/portfolio/1-case-study-one/</link>
-      <pubDate>Thu, 03 Feb 2022 12:49:27 +0600</pubDate>
+      <title>Case 3: Technical or Business Blog </title>
+      <link>https://www.yuxianxu.com/portfolio/case-3-technical-or-business-blog/</link>
+      <pubDate>Thu, 12 Aug 2021 18:19:35 +0600</pubDate>
       
-      <guid>https://www.yuxianxu.com/portfolio/1-case-study-one/</guid>
-      <description>About Zonama is a full-featured E-commerce app like amazon. It is also a full stack project with NextJS and MongoDB.
-Live Demo zonama
-Technologies  NextJS: dynamic routing, image optimization, SSG(Static-site generation) and SSR(Server-side rendering) MaterialUI: framework to build responsive website using custom theme, animation, darkmode, and carousel ReactJS: including decomposing components, context API and hooks Next Connect package: to build backend API MongoDB and Mongoose: to save and retrieve data like products, orders and users PayPal developer api: to make online payment Deployment: Deploy web applications on servers like Vercel JWT Auth: authorization Cloudinary: images cloud storage Google login: Will update this feature later  Feature Full function  users: browsing, searching, placing order, and checking delivery administrators: scalable backend dashboard including creating new product page and managing orders  Products  list page edit page create page image uploaded  Users  admin setting page profile page edit page  Orders  list page summary payment status delivery status  Payment  payment methods payment redirect page paypal and credit card supported  Mobile view - responsive design Please check github readme for more GitHub page</description>
+      <guid>https://www.yuxianxu.com/portfolio/case-3-technical-or-business-blog/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Case 4: Products or Services Landing Page</title>
+      <link>https://www.yuxianxu.com/portfolio/case-4-products-or-services-landing-page/</link>
+      <pubDate>Sat, 12 Jun 2021 12:13:40 +0000</pubDate>
+      
+      <guid>https://www.yuxianxu.com/portfolio/case-4-products-or-services-landing-page/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
@@ -44,24 +62,6 @@ test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;
 Emphasis This is bold text
 This is bold text
 This is italic text</description>
-    </item>
-    
-    <item>
-      <title>Blog - OTC Blog</title>
-      <link>https://www.yuxianxu.com/portfolio/3-case-study-three/</link>
-      <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
-      
-      <guid>https://www.yuxianxu.com/portfolio/3-case-study-three/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Landing page - rentAcar</title>
-      <link>https://www.yuxianxu.com/portfolio/4-case-study-four/</link>
-      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
-      
-      <guid>https://www.yuxianxu.com/portfolio/4-case-study-four/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>

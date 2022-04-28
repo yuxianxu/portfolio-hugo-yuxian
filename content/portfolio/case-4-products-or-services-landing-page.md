@@ -1,6 +1,6 @@
 ---
-title: Landing page - rentAcar
-date: 2020-08-12T12:13:40+00:00
+title: "Case 4: Products or Services Landing Page"
+date: 2021-06-12T12:13:40+00:00
 thumbnail: images/portfolio/portfolio-4.png
 service: Small business, Landing Page
 client: Jane Doe

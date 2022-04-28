@@ -1,6 +1,6 @@
 ---
 title: "Case 1: E-commerce Website"
-date: 2022-02-03T12:49:27.000+06:00
+date: 2022-04-05T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
 service: E-commerce, Online Shopping
 client: Yuxian Xu
@@ -11,11 +11,11 @@ solution: I separate the project to several tasks and complete one by one. It's 
 ---
 ### About
 
-Zonama is a full-featured E-commerce app like amazon. It is also a full stack project with NextJS and MongoDB.
+Zonama is a full-featured E-commerce app like amazon
 
 ### Live Demo
 
-[zonama](https://zonama.vercel.app)
+[![zonama](https://res.cloudinary.com/zonama/image/upload/v1651168624/portfolio/zonama-1_taz02w.png)](https://zonama.vercel.app)
 
 ### Technologies
 

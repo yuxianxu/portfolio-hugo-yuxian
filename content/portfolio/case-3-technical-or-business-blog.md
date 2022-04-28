@@ -1,8 +1,8 @@
 ---
-title: Blog - OTC Blog
-date: 2020-08-12T18:19:35.000+06:00
+title: "Case 3: Technical or Business Blog "
+date: 2021-08-12T18:19:35.000+06:00
 thumbnail: images/portfolio/portfolio-3.png
-service: news feed, blog
+service: news feed, blog, technical, markdown
 client: Clayton Coco
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
