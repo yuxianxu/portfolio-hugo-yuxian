@@ -6,30 +6,21 @@
     <description>Recent content on Yuxian Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2022 12:49:27 +0600</lastBuildDate><atom:link href="https://www.yuxianxu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 12:13:40 +0000</lastBuildDate><atom:link href="https://www.yuxianxu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Case 1: E-commerce Website</title>
-      <link>https://www.yuxianxu.com/portfolio/case-1-e-commerce-website/</link>
-      <pubDate>Tue, 05 Apr 2022 12:49:27 +0600</pubDate>
+      <title>Case 4: Products or Services Landing Page</title>
+      <link>https://www.yuxianxu.com/portfolio/case-4-products-or-services-landing-page/</link>
+      <pubDate>Sun, 12 Sep 2021 12:13:40 +0000</pubDate>
       
-      <guid>https://www.yuxianxu.com/portfolio/case-1-e-commerce-website/</guid>
-      <description>About Zonama is a full-featured E-commerce app like amazon
+      <guid>https://www.yuxianxu.com/portfolio/case-4-products-or-services-landing-page/</guid>
+      <description>rentAcar RentAcar is a responsive landing page sample, which was created by typescript and tailwind css.
 Live Demo 
-Technologies  NextJS: dynamic routing, image optimization, SSG(Static-site generation) and SSR(Server-side rendering) MaterialUI: framework to build responsive website using custom theme, animation, darkmode, and carousel ReactJS: including decomposing components, context API and hooks Next Connect package: to build backend API MongoDB and Mongoose: to save and retrieve data like products, orders and users PayPal developer api: to make online payment Deployment: Deploy web applications on servers like Vercel JWT Auth: authorization Cloudinary: images cloud storage Google login: Will update this feature later  Feature Full function  users: browsing, searching, placing order, and checking delivery administrators: scalable backend dashboard including creating new product page and managing orders  Products  list page edit page create page image uploaded  Users  admin setting page profile page edit page  Orders  list page summary payment status delivery status  Payment  payment methods payment redirect page paypal and credit card supported  Mobile view - responsive design Please check github readme for more GitHub page</description>
-    </item>
-    
-    <item>
-      <title>Case 2: Social Media App</title>
-      <link>https://www.yuxianxu.com/portfolio/case-2-social-media-app/</link>
-      <pubDate>Sat, 12 Mar 2022 18:07:16 +0600</pubDate>
-      
-      <guid>https://www.yuxianxu.com/portfolio/case-2-social-media-app/</guid>
-      <description>About LoveShare is a fancy social media app.
-Live View 
-Features ScreenShots  Login page  Mobile view - responsive design  Mobile view - sidebar  For more info, please check on GitHub ReadMe
-Live View 
-For more   I Created this app following with the youTube channel JavaScript Mastery
-  Deployed on netlify - npm run build, then upload the build file on netlify</description>
+Technologies and Skills  Typescript React.js Tailwind css Responsive design React-carousel React Hooks Scroll up button Deployment: Deploy web applications on servers like Vercel  Homepage Features   About us
+  Services
+  Top Cars
+  Book Steps
+  Contact Info
+  More Screenshots  Mobile view  Book date card  Booking Steps  About Us  Top Cars Footer   Getting Started  clone this repo npm i npm start  Open http://localhost:3000 with your browser to see the result</description>
     </item>
     
     <item>
@@ -45,19 +36,28 @@ about   OTC-blog is a demo site for healthy living blog
     </item>
     
     <item>
-      <title>Case 4: Products or Services Landing Page</title>
-      <link>https://www.yuxianxu.com/portfolio/case-4-products-or-services-landing-page/</link>
-      <pubDate>Sat, 12 Jun 2021 12:13:40 +0000</pubDate>
+      <title>Case 2: Social Media App</title>
+      <link>https://www.yuxianxu.com/portfolio/case-2-social-media-app/</link>
+      <pubDate>Fri, 12 Mar 2021 18:07:16 +0600</pubDate>
       
-      <guid>https://www.yuxianxu.com/portfolio/case-4-products-or-services-landing-page/</guid>
-      <description>rentAcar RentAcar is a responsive landing page sample, which was created by typescript and tailwind css.
+      <guid>https://www.yuxianxu.com/portfolio/case-2-social-media-app/</guid>
+      <description>About LoveShare is a fancy social media app.
+Live View 
+Features ScreenShots  Login page  Mobile view - responsive design  Mobile view - sidebar  For more info, please check on GitHub ReadMe
+Live View 
+For more   I Created this app following with the youTube channel JavaScript Mastery
+  Deployed on netlify - npm run build, then upload the build file on netlify</description>
+    </item>
+    
+    <item>
+      <title>Case 1: E-commerce Website</title>
+      <link>https://www.yuxianxu.com/portfolio/case-1-e-commerce-website/</link>
+      <pubDate>Fri, 05 Feb 2021 12:49:27 +0600</pubDate>
+      
+      <guid>https://www.yuxianxu.com/portfolio/case-1-e-commerce-website/</guid>
+      <description>About Zonama is a full-featured E-commerce app like amazon
 Live Demo 
-Technologies and Skills  Typescript React.js Tailwind css Responsive design React-carousel React Hooks Scroll up button Deployment: Deploy web applications on servers like Vercel  Homepage Features   About us
-  Services
-  Top Cars
-  Book Steps
-  Contact Info
-  More Screenshots  Mobile view  Book date card  Booking Steps  About Us  Top Cars Footer   Getting Started  clone this repo npm i npm start  Open http://localhost:3000 with your browser to see the result</description>
+Technologies  NextJS: dynamic routing, image optimization, SSG(Static-site generation) and SSR(Server-side rendering) MaterialUI: framework to build responsive website using custom theme, animation, darkmode, and carousel ReactJS: including decomposing components, context API and hooks Next Connect package: to build backend API MongoDB and Mongoose: to save and retrieve data like products, orders and users PayPal developer api: to make online payment Deployment: Deploy web applications on servers like Vercel JWT Auth: authorization Cloudinary: images cloud storage Google login: Will update this feature later  Feature Full function  users: browsing, searching, placing order, and checking delivery administrators: scalable backend dashboard including creating new product page and managing orders  Products  list page edit page create page image uploaded  Users  admin setting page profile page edit page  Orders  list page summary payment status delivery status  Payment  payment methods payment redirect page paypal and credit card supported  Mobile view - responsive design Please check github readme for more GitHub page</description>
     </item>
     
     <item>

@@ -1,6 +1,6 @@
 ---
 title: "Case 2: Social Media App"
-date: 2022-03-12T18:07:16.000+06:00
+date: 2021-03-12T18:07:16.000+06:00
 thumbnail: images/portfolio/portfolio-2.png
 service: Web Design, Social Media
 client: Yuxian Xu

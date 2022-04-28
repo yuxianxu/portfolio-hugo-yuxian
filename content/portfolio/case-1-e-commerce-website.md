@@ -1,6 +1,6 @@
 ---
 title: "Case 1: E-commerce Website"
-date: 2022-04-05T12:49:27.000+06:00
+date: 2021-02-05T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
 service: E-commerce, Online Shopping
 client: Yuxian Xu
