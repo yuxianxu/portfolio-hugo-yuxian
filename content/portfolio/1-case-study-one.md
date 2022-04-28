@@ -1,5 +1,5 @@
 ---
-title: E-commerce website - zonama
+title: "Case 1: E-commerce Website"
 date: 2022-02-03T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
 service: E-commerce, Online Shopping
