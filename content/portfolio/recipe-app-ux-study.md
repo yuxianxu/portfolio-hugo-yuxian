@@ -1,8 +1,8 @@
 ---
-title: Recipe App Ux Study
+title: Blog - OTC Blog
 date: 2020-08-12T18:19:35.000+06:00
 thumbnail: images/portfolio/portfolio-3.png
-service: UX Design, UX Research
+service: news feed, blog
 client: Clayton Coco
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
