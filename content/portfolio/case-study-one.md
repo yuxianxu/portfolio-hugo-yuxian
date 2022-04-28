@@ -2,7 +2,7 @@
 title: e-commerce website - zonama
 date: 2020-07-13T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
-service: Development, UX Design
+service: E-commerce, Online Shopping
 client: Edward Furlong
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
