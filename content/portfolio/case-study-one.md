@@ -9,7 +9,7 @@ challenge: Two challenges I have for this online shopping app. First, I used lot
 solution: I separate the project to several tasks and complete one by one. It's great to see the process for each commit.
 
 ---
-### zonama
+### About
 
 Zonama is a full-featured E-commerce app like amazon. It is also a full stack project with NextJS and MongoDB.
 

@@ -6,14 +6,23 @@
     <description>Recent content in Portfolios on Yuxian Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Feb 2022 12:49:27 +0600</lastBuildDate><atom:link href="https://www.yuxianxu.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 18:07:16 +0600</lastBuildDate><atom:link href="https://www.yuxianxu.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Media App - loveShare</title>
+      <link>https://www.yuxianxu.com/portfolio/event-app-case-study/</link>
+      <pubDate>Tue, 12 Apr 2022 18:07:16 +0600</pubDate>
+      
+      <guid>https://www.yuxianxu.com/portfolio/event-app-case-study/</guid>
+      <description>Liveview  loveShare  About  LoveShare is created by React Js and Sanity CMS platform  Features  Advanced Social Media app Google Authentication Sanity headless CMS (Content Management System) platform Create, edit, delete and save posts Comments on other people&amp;rsquo;s posts Search and filter images Masonary layout  ScreenShots homepage Mobile view - responsive design Mobile view - sidebar For more info, please check readme doc on GitHub ReadMe</description>
+    </item>
+    
     <item>
       <title>E-commerce website - zonama</title>
       <link>https://www.yuxianxu.com/portfolio/case-study-one/</link>
       <pubDate>Thu, 03 Feb 2022 12:49:27 +0600</pubDate>
       
       <guid>https://www.yuxianxu.com/portfolio/case-study-one/</guid>
-      <description>zonama Zonama is a full-featured E-commerce app like amazon. It is also a full stack project with NextJS and MongoDB.
+      <description>About Zonama is a full-featured E-commerce app like amazon. It is also a full stack project with NextJS and MongoDB.
 Live Demo zonama
 Technologies  NextJS: dynamic routing, image optimization, SSG(Static-site generation) and SSR(Server-side rendering) MaterialUI: framework to build responsive website using custom theme, animation, darkmode, and carousel ReactJS: including decomposing components, context API and hooks Next Connect package: to build backend API MongoDB and Mongoose: to save and retrieve data like products, orders and users PayPal developer api: to make online payment Deployment: Deploy web applications on servers like Vercel JWT Auth: authorization Cloudinary: images cloud storage Google login: Will update this feature later  Feature Full function  users: browsing, searching, placing order, and checking delivery administrators: scalable backend dashboard including creating new product page and managing orders  Products  list page edit page create page image uploaded  Users  admin setting page profile page edit page  Orders  list page summary payment status delivery status  Payment  payment methods payment redirect page paypal and credit card supported  Mobile view - responsive design Please check github readme for more GitHub page</description>
     </item>
@@ -33,15 +42,6 @@ Technologies  NextJS: dynamic routing, image optimization, SSG(Static-site gener
       <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
       
       <guid>https://www.yuxianxu.com/portfolio/ux-case-study-for-agriculture-app/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Social Media App - loveShare</title>
-      <link>https://www.yuxianxu.com/portfolio/event-app-case-study/</link>
-      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
-      
-      <guid>https://www.yuxianxu.com/portfolio/event-app-case-study/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
