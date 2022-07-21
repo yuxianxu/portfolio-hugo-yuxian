@@ -2,13 +2,11 @@
 enable: true
 topTitle: My Resume
 title: >
-  ### My Expertises
+  ### Summary
 
-  To leverage over 10 years of experience in telemedicine and healthcare startups to quickly learn and grow in a web development career. 
+  Creative and detail-oriented web developer with 3 years of experience in creating intuitive websites and adapting code for specific tasks. 
   
-  
-  Results-driven web developer, seeking to use proven front-end and back-end stack to deliver coding excellence.
-  Have developed 8 web apps.
+  Skilled in the agile development environment, using JavaScript and frontend frameworks and libraries like React, Vue, Vite, NodeJs, and Restful services, and working with PHP, WordPress WooCommerce, Shopify pages, and UI/UX tools such as Figma, Adobe to reach marketing goals.
 
 tab1Name: Education
 tab2Name: Experiences
@@ -41,24 +39,35 @@ education:
 
 experience:
   - content: >
-      ### NextBoat Inc.
+      ### Grouppers Inc.
 
-      ##### Full Stack Engineer. 
+      ##### Frontend Developer. 
 
-      - Develop and build four functional websites including e-commerce store, landing page and portfolio. 
+      - Built and deployed a modern E-commerce website with React context API, hooks, MongoDB/Mongoose, Paypal payment gateway, JWT Authentication, and Cloudinary storage.
       
-      - Keep learning full stack technologies such as AWS, tailwind CSS, headless CMS, system design, and distributed system.
-    time: 2021-Present
+      - Implemented key modules such as product listing, shopping cart, checkout page, and shipment tracking by designing intuitive pages and adapting based on feedback from the UX/UI team following the Agile Software Development Life Cycle using Jira Scrum and Kanban, resulting in a functional and beautiful website with 160+ visitors daily.
+      
+      - Designed and built a responsive blog using MongoDB, Express, and Node.js in the back-end, REST API, Vue.js and Vuetify in the front-end to provide a user interface to create new posts, upload images, and edit or delete posts.
+    time: 2022-Present
   - content: >
-      ### Triple C Comm
+      ### FREELANCER
 
       ##### WordPress and Mailchimp Developer
 
-      - Created blogs for three online pharmacy websites, health related contents for weekly newsletter emailers, product landing pages, social media graphics, new subscription forms, and promotion pages for 100K+ users.        
+      - Designed and built a standard portfolio website and achieved 100% unit test coverage with Jest. Implemented router and dynamic pages for home, project, experience, and blog pages. Deployed on AWS with Amplify Command Line Interface (CLI).
+
+      - Developed 120+ WordPress and Shopify webpages and widgets using PHP, MySQL, CSS, and tools such as WooCommerce, Elementor, and Shortcodes.
+
+      - Implemented SEO strategies for two websites. Achieved a 37% increase in Google search ranking performance by customizing structured data, tailoring robot.txt files, optimizing media sizes, updating page metadata, collaborating with the marketing team on targeting keywords phrases, and implementing caching.
+    time: 2021-2022
+  - content: >
+      ### Triple C Comm
+
+      ##### WordPress Developer
+
+      - Enhanced Content Management System(CMS) for three online pharmacy websites. Created health-related content, blogs and weekly newsletters for 100K+ users. Integrated email sending services, social media landing page low code platform, and user subscriptions management system. 
       
       - Improved weekly newsletter links-click rate from 2.1% to 4.8%.
-      
-      - Submitted and resolved 150+ issues of websites and helped on google SEO. 
     time: 2020-2021
   - content: >
       ### QuantumHealth
