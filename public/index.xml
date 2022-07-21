@@ -6,7 +6,22 @@
     <description>Recent content on Yuxian Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 12:13:40 +0000</lastBuildDate><atom:link href="https://www.yuxianxu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2022 12:13:40 +0000</lastBuildDate><atom:link href="https://www.yuxianxu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Case 5: Stream Video Chat Room</title>
+      <link>https://www.yuxianxu.com/portfolio/case-5-stream_video_chat_room/</link>
+      <pubDate>Sat, 12 Mar 2022 12:13:40 +0000</pubDate>
+      
+      <guid>https://www.yuxianxu.com/portfolio/case-5-stream_video_chat_room/</guid>
+      <description>cloudRoom cloudRoom is a real-time video meeting room.
+Live Demo Technologies and Skills Javascript React.js Tailwind css Responsive design React-carousel React Hooks Scroll up button Deployment: Deploy web applications on servers like Vercel Homepage Features Create a new room
+Join a room
+Enable or disable video and audio
+Share current window or tab or screen
+Chat via text at same time
+More Screenshots Mobile view Enable or disable video and audio Share current window or tab or screen Getting Started clone this repo hugo hugo serve Open http://localhost:1313 with your browser to see the live pages (or other url from terminal line)</description>
+    </item>
+    
     <item>
       <title>Case 4: Products or Services Landing Page</title>
       <link>https://www.yuxianxu.com/portfolio/case-4-products-or-services-landing-page/</link>
@@ -14,13 +29,12 @@
       
       <guid>https://www.yuxianxu.com/portfolio/case-4-products-or-services-landing-page/</guid>
       <description>rentAcar RentAcar is a responsive landing page sample, which was created by typescript and tailwind css.
-Live Demo 
-Technologies and Skills  Typescript React.js Tailwind css Responsive design React-carousel React Hooks Scroll up button Deployment: Deploy web applications on servers like Vercel  Homepage Features   About us
-  Services
-  Top Cars
-  Book Steps
-  Contact Info
-  More Screenshots  Mobile view  Book date card  Booking Steps  About Us  Top Cars Footer   Getting Started  clone this repo npm i npm start  Open http://localhost:3000 with your browser to see the result</description>
+Live Demo Technologies and Skills Typescript React.js Tailwind css Responsive design React-carousel React Hooks Scroll up button Deployment: Deploy web applications on servers like Vercel Homepage Features About us
+Services
+Top Cars
+Book Steps
+Contact Info
+More Screenshots Mobile view Book date card Booking Steps About Us Top Cars Footer Getting Started clone this repo npm i npm start Open http://localhost:3000 with your browser to see the result</description>
     </item>
     
     <item>
@@ -29,10 +43,9 @@ Technologies and Skills  Typescript React.js Tailwind css Responsive design Reac
       <pubDate>Thu, 12 Aug 2021 18:19:35 +0600</pubDate>
       
       <guid>https://www.yuxianxu.com/portfolio/case-3-technical-or-business-blog/</guid>
-      <description>Live 
-about   OTC-blog is a demo site for healthy living blog
-  OTC blog is a fully functional multi-purpose blog powered by React and Gatsby JS v3 and flexiBlog theme
-  technologies  Algolia search system, Mailchimp newsletter provider and Disqus commenting system are also integrated CMS content API supported Social media sharing supported Deployed on vercel  </description>
+      <description>Live about OTC-blog is a demo site for healthy living blog
+OTC blog is a fully functional multi-purpose blog powered by React and Gatsby JS v3 and flexiBlog theme
+technologies Algolia search system, Mailchimp newsletter provider and Disqus commenting system are also integrated CMS content API supported Social media sharing supported Deployed on vercel </description>
     </item>
     
     <item>
@@ -42,11 +55,9 @@ about   OTC-blog is a demo site for healthy living blog
       
       <guid>https://www.yuxianxu.com/portfolio/case-2-social-media-app/</guid>
       <description>About LoveShare is a fancy social media app.
-Live View 
-Features ScreenShots  Login page  Mobile view - responsive design  Mobile view - sidebar  For more info, please check on GitHub ReadMe
-Live View 
-For more   I Created this app following with the youTube channel JavaScript Mastery
-  Deployed on netlify - npm run build, then upload the build file on netlify</description>
+Live View Features ScreenShots Login page Mobile view - responsive design Mobile view - sidebar For more info, please check on GitHub ReadMe
+Live View For more I Created this app following with the youTube channel JavaScript Mastery
+Deployed on netlify - npm run build, then upload the build file on netlify</description>
     </item>
     
     <item>
@@ -56,8 +67,7 @@ For more   I Created this app following with the youTube channel JavaScript Mast
       
       <guid>https://www.yuxianxu.com/portfolio/case-1-e-commerce-website/</guid>
       <description>About Zonama is a full-featured E-commerce app like amazon
-Live Demo 
-Technologies Feature Mobile view - responsive design Please check github readme for more GitHub page
+Live Demo Technologies Feature Mobile view - responsive design Please check github readme for more GitHub page
 - - - Note: This project is followed by Basir&amp;rsquo;s channel on Udemy and modified by Yuxian Xu</description>
     </item>
     
@@ -68,13 +78,14 @@ Technologies Feature Mobile view - responsive design Please check github readme 
       
       <guid>https://www.yuxianxu.com/blog/markdown-formatting-demo/</guid>
       <description>This example Markdown file compliments of markdown-it.github.io
- h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements Enable typographer option to see result.
+h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
 !!!!!! ???? ,, &amp;ndash; &amp;mdash;
 &amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;
 Emphasis This is bold text
 This is bold text
+This is italic text
 This is italic text</description>
     </item>
     

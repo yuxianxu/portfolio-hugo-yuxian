@@ -2,20 +2,18 @@
 enable: true
 topTitle: My Resume
 title: >
-  ### My Expertises
+  ### Summary
 
-  To leverage over 10 years of experience in telemedicine and healthcare startups to quickly learn and grow in a web development career. 
+  Creative and detail-oriented web developer with 3 years of experience in creating intuitive websites and adapting code for specific tasks. 
   
-  
-  Results-driven web developer, seeking to use proven front-end and back-end stack to deliver coding excellence.
-  Have developed 8 web apps.
+  Skilled in the agile development environment, using JavaScript and frontend frameworks and libraries like React, Vue, Vite, NodeJs, and Restful services, and working with PHP, WordPress WooCommerce, Shopify pages, and UI/UX tools such as Figma, Adobe to reach marketing goals.
 
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
 tab2Target: experience
 button3Name: Download CV
-button3Target: /docs/Yuxian_Xu-Full_Stack_Developer-04282022.pdf
+button3Target: /docs/Yuxian_Xu-Full_Stack_Developer-02202022.pdf
 
 education:
   - content: >
@@ -23,51 +21,68 @@ education:
 
       ###### BrainStation | Diploma
 
-      >In this cohort-based coding bootcamp, I learned how to build and deploy the real-world industry web applications using Node.js, MySQL, JavaScript, REST API, React, Git, JIRA, Passport.js, Postman, Jest and Heroku.   
-    time: 2021-2022
+      >In this cohort-based coding bootcamp, I learned how to build and deploy the real-world industry web applications using both frontend and back end stacks, such as Node.js, MySQL, JavaScript, REST API, React, Git, JIRA, Passport.js, Postman, Jest and Heroku.   
+    time: Oct, 2021 - Jan, 2022
   - content: >
       ####  Master of Business Administration 
 
       ###### Capital University of Economics and Business | MBA
       
       From three years MBA program, I learned accounting, finance, marketing, business law and management with a focus on leadership, planning, business strategy, organizational behavior, and the more human sides of running a large or small business.
-    time: 2006-2009
+    time: Sep, 2006 - Jun, 2009
  
   - content: >
       #### Peking Union Medical College | Biochemistry
 
       Involved Human Genome Project (HGP) as an intern isolating DNA, doing PCR, and sequencing the DNA.
-    time: 1998-2001
+    time: Sep, 1998 - Jun, 2001
 
 experience:
   - content: >
-      ### Grouppers Inc.
+      ### Frontend Developer
 
-      ##### Full Stack Engineer. 
+      ##### Grouppers Inc
 
-      - Develop and build four functional websites including e-commerce store, landing page and portfolio. 
+      - Built and deployed a modern E-commerce website with React context API, hooks, MongoDB/Mongoose, Paypal payment gateway, JWT Authentication, and Cloudinary storage.
       
-      - Keep learning full stack technologies such as AWS, tailwind CSS, headless CMS, system design, and distributed system.
-    time: 2022-Present
+      - Implemented key modules such as product listing, shopping cart, checkout page, and shipment tracking by designing intuitive pages and adapting based on feedback from the UX/UI team following the Agile Software Development Life Cycle using Jira Scrum and Kanban, resulting in a functional and beautiful website with 160+ visitors daily.
+      
+      - Designed and built a responsive blog using MongoDB, Express, and Node.js in the back-end, REST API, Vue.js and Vuetify in the front-end to provide a user interface to create new posts, upload images, and edit or delete posts.
+    time: Mar, 2022 - Present
   - content: >
-      ### Triple C Comm
+      ### Full Stack Developer
 
-      ##### WordPress and Mailchimp Developer
+      ##### FREELANCER
 
-      - Created contents, blogs, emailers for three online pharmacy websites, health related contents for weekly newsletter emailers, product landing pages, social media graphics, new subscription forms, and promotion pages for 100K+ users.        
+      - Designed and built a standard portfolio website and achieved 100% unit test coverage with Jest. Implemented router and dynamic pages for home, project, experience, and blog pages. Deployed on AWS with Amplify Command Line Interface (CLI).
+
+      - Developed 120+ WordPress and Shopify webpages and widgets using PHP, MySQL, CSS, and tools such as WooCommerce, Elementor, and Shortcodes.
+
+      - Implemented SEO strategies for two websites. Achieved a 37% increase in Google search ranking performance by customizing structured data, tailoring robot.txt files, optimizing media sizes, updating page metadata, collaborating with the marketing team on targeting keywords phrases, and implementing caching.
+    time: Oct, 2021 - Mar, 2022
+  - content: >
+      ### WordPress Developer
+
+      ##### Triple C Comm
+
+      - Enhanced Content Management System(CMS) for three online pharmacy websites. Created health-related content, blogs and weekly newsletters for 100K+ users. Integrated email sending services, social media landing page low code platform, and user subscriptions management system. 
       
       - Improved weekly newsletter links-click rate from 2.1% to 4.8%.
-      
-      - Submitted and resolved 150+ issues of websites and helped on google SEO. 
-    time: 2020-2021
+    time: Jan, 2020 - Oct, 2021
   - content: >
-      ### QuantumHealth
+      ### Co-founder
      
-      ##### Co-founder
+      ##### QuantumHealth(Hangzhou)
 
       - Chaired the development of the telemedicine project - online healthcare system, which served 23,000 patients and 540+ health and clinic providers.
   
       - Founded marketing and sales team. Trained and mentored 3 supervisors. Achieved monthly revenue around 210k USD.
-    time: 2014-2017
- 
+    time: May, 2014 - Oct, 2017
+  - content: >
+      ### Co-founder
+     
+      ##### SearchBiotech(Beijing)
 
+      - Co-found a molecular diagnostics company and grew the company to 16 employees with R&D and sales teams. Generated 4.2 million (USD) annual revenue. Sold the company for 3 million (USD) in cash and returned the cash to shareholders.
+    time: Feb, 2011 - Apr, 2015
+ 
