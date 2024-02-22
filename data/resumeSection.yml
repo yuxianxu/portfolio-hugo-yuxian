@@ -21,23 +21,32 @@ education:
 
       ###### BrainStation | Diploma
 
-      >In this cohort-based coding bootcamp, I learned how to build and deploy the real-world industry web applications using both frontend and back end stacks, such as Node.js, MySQL, JavaScript, REST API, React, Git, JIRA, Passport.js, Postman, Jest and Heroku.   
-    time: Oct, 2021 - Jan, 2022
+      >In this full-time cohort-based coding bootcamp, I learned how to build and deploy real-world industry web applications using both frontend and back end stacks, such as Node.js, MySQL, JavaScript, REST API, React, Git, JIRA, Passport.js, Postman, Jest and Heroku.   
+    time: Oct 2021 - Jan 2022
   - content: >
       ####  Master of Business Administration 
 
       ###### Capital University of Economics and Business | MBA
       
-      From three years MBA program, I learned accounting, finance, marketing, business law and management with a focus on leadership, planning, business strategy, organizational behavior, and the more human sides of running a large or small business.
+      From three three-year MBA program, I learned accounting, finance, marketing, business law and management with a focus on leadership, planning, business strategy, organizational behavior, and the more human sides of running a large or small business.
     time: Sep, 2006 - Jun, 2009
  
-  - content: >
-      #### Peking Union Medical College | Biochemistry
-
-      Involved Human Genome Project (HGP) as an intern isolating DNA, doing PCR, and sequencing the DNA.
-    time: Sep, 1998 - Jun, 2001
 
 experience:
+  - content: >
+      ### Software Engineer
+
+      ##### D3 Security
+
+      - Developed and refined over 30 3rd party integrations and APIs, elevating platform performance and engineering workflow. My direct efforts enabled seamless system compatibility and reinforced product security.
+      
+      - Architected and deployed a comprehensive live server monitoring system, capable of real-time alerting through email and instant messaging, covering critical metrics like CPU, memory, storage, and database health for SQL and MongoDB. Successfully integrated on over 50+ global servers, this system was pivotal in reducing production incidents by 90%. •
+      So$ware Engineer- Front End Team Oct 2022 - Mar 2023
+      
+      - Engineered a comprehensive Administrator Reporting Dashboard for a SaaS application, enabling automated visual reporting and scheduled email dispatch that segmented data by category and topic. This enhancement played a key role in boosting client acquisition by 26% from the previous quarter.
+      
+      - Constructed 80+ incident and event widgets by interfacing with the database.
+    time: Oct 2022 - Present
   - content: >
       ### Frontend Developer
 
@@ -47,25 +56,14 @@ experience:
       
       - Implemented key modules such as product listing, shopping cart, checkout page, and shipment tracking by designing intuitive pages and adapting based on feedback from the UX/UI team following the Agile Software Development Life Cycle using Jira Scrum and Kanban, resulting in a functional and beautiful website with 160+ visitors daily.
       
-      - Designed and built a responsive blog using MongoDB, Express, and Node.js in the back-end, REST API, Vue.js and Vuetify in the front-end to provide a user interface to create new posts, upload images, and edit or delete posts.
-    time: Mar, 2022 - Present
-  - content: >
-      ### Full Stack Developer
-
-      ##### FREELANCER
-
-      - Designed and built a standard portfolio website and achieved 100% unit test coverage with Jest. Implemented router and dynamic pages for home, project, experience, and blog pages. Deployed on AWS with Amplify Command Line Interface (CLI).
-
-      - Developed 120+ WordPress and Shopify webpages and widgets using PHP, MySQL, CSS, and tools such as WooCommerce, Elementor, and Shortcodes.
-
-      - Implemented SEO strategies for two websites. Achieved a 37% increase in Google search ranking performance by customizing structured data, tailoring robot.txt files, optimizing media sizes, updating page metadata, collaborating with the marketing team on targeting keywords phrases, and implementing caching.
-    time: Oct, 2021 - Mar, 2022
+      - Designed and built a responsive blog using MongoDB, Express, and Node.js in the back end, REST API, Vue.js, and Vuetify in the front end to provide a user interface to create new posts, upload images, and edit or delete posts.
+    time: Oct, 2021 - Oct 2022
   - content: >
       ### WordPress Developer
 
       ##### Triple C Comm
 
-      - Enhanced Content Management System(CMS) for three online pharmacy websites. Created health-related content, blogs and weekly newsletters for 100K+ users. Integrated email sending services, social media landing page low code platform, and user subscriptions management system. 
+      - Enhanced Content Management System(CMS) for three online pharmacy websites. Created health-related content, blogs, and weekly newsletters for 100K+ users. Integrated email-sending services, social media landing page low code platform, and user subscriptions management system. 
       
       - Improved weekly newsletter links-click rate from 2.1% to 4.8%.
     time: Jan, 2020 - Oct, 2021
@@ -74,15 +72,15 @@ experience:
      
       ##### QuantumHealth(Hangzhou)
 
-      - Chaired the development of the telemedicine project - online healthcare system, which served 23,000 patients and 540+ health and clinic providers.
+      - Chaired the development of the telemedicine project - an online healthcare system, which served 23,000 patients and 540+ health and clinic providers.
   
-      - Founded marketing and sales team. Trained and mentored 3 supervisors. Achieved monthly revenue around 210k USD.
+      - Founded marketing and sales team. Trained and mentored 3 supervisors. Achieved monthly revenue of around 210k USD.
     time: May, 2014 - Oct, 2017
   - content: >
       ### Co-founder
      
       ##### SearchBiotech(Beijing)
 
-      - Co-found a molecular diagnostics company and grew the company to 16 employees with R&D and sales teams. Generated 4.2 million (USD) annual revenue. Sold the company for 3 million (USD) in cash and returned the cash to shareholders.
+      - Co-founded a molecular diagnostics company and grew the company to 16 employees with R&D and sales teams. Generated 4.2 million (USD) annual revenue. Sold the company for 3 million (USD) in cash and returned the cash to shareholders.
     time: Feb, 2011 - Apr, 2015
  
