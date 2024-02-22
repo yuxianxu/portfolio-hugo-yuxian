@@ -4,10 +4,7 @@ topTitle: My Resume
 title: >
   ### Summary
 
-  Creative and detail-oriented web developer with 3 years of experience in creating intuitive websites and adapting code for specific tasks. 
-  
-  Skilled in the agile development environment, using JavaScript and frontend frameworks and libraries like React, Vue, Vite, NodeJs, and Restful services, and working with PHP, WordPress WooCommerce, Shopify pages, and UI/UX tools such as Figma, Adobe to reach marketing goals.
-
+  Skilled Software Engineer with 3 years of expertise in web and SaaS platforms, focusing on front-end development with React and TypeScript, and back-end service optimization. Proven ability in API development and performance tuning of relational and NoSQL databases. Committed to collaborative problem-solving and technical excellence, ready to drive product innovation in a dynamic team environment.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -21,7 +18,7 @@ education:
 
       ###### BrainStation | Diploma
 
-      >In this full-time cohort-based coding bootcamp, I learned how to build and deploy real-world industry web applications using both frontend and back end stacks, such as Node.js, MySQL, JavaScript, REST API, React, Git, JIRA, Passport.js, Postman, Jest and Heroku.   
+      >In this full-time cohort-based coding bootcamp, I learned how to build and deploy real-world industry web applications using both frontend and back-end stacks, such as Node.js, MySQL, JavaScript, REST API, React, Git, JIRA, Passport.js, Postman, Jest and Heroku.   
     time: Oct 2021 - Jan 2022
   - content: >
       ####  Master of Business Administration 
